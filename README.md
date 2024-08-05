@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Markfla
 - 👀 I’m interested in cats, coffee and coding
-- 🌱 I’m currently learning java, python and git
+- 🌱 I’m currently learning webdev (mostly js and ruby via odin project currently)
 - 💞️ I’m looking to collaborate on silly data science projects and small silly programs
 - 📫 How to reach me @markf2196@gmail.com
 
